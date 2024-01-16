@@ -1,4 +1,4 @@
-Hi ![]<https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif>My name is Nut
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nut
 ===========================================================================================================================
 
 I'm Student in Songkhla Rajabhat 
