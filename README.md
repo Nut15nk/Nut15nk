@@ -7,8 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nut15nk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/522763407364063233/1286144120435507252/f48792a969bd9550e90e688345b5366a.png?ex=66ecd68d&is=66eb850d&hm=a248968379e53e4f3556c3eb104a399dbec634991b6ad55bcdc5b62b453dd394&=&format=webp&quality=lossless&width=350&height=350"  />
-
 ###
 
 <div align="left">
