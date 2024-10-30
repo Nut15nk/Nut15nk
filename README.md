@@ -31,7 +31,7 @@
   <a href="https://www.facebook.com/Nakhawat/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/nnut_15k/" target="_blank">
+  <a href="https://www.instagram.com/nut159_b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
