@@ -26,8 +26,3 @@
 </div>
 
 ##
-
-#
-<br clear="both">
-<div align="left">
-<img alt="just sneak" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
