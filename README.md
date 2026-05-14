@@ -3,9 +3,8 @@
 ###
 
 <div align="center">
-  <!-- ใช้ Server สำรองเพื่อเลี่ยง Error -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nut15nk&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&count_private=true" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nut15nk&theme=transparent&show_icons=true&hide_border=true&layout=compact&border_radius=10" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nut15nk&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&rank_icon=github&border_radius=10&count_private=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nut15nk&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=30363d&show_icons=true&hide_border=false&layout=compact&border_radius=10" height="180" />
 </div>
 
 ###
