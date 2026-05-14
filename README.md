@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nut15nk&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=30363d&show_icons=true&hide_border=false&layout=compact&border_radius=10" height="180" />
 </div>
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-</div>
+</div> -->
 
 <br/>
 
