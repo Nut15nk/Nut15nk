@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nut15nk&theme=vue-dark" alt="Nut's Stats" height="190" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Nut15nk&theme=vue-dark" alt="Most Used Languages" height="190" />
+  <!-- ใช้ Server สำรองเพื่อเลี่ยง Error -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nut15nk&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&count_private=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nut15nk&theme=transparent&show_icons=true&hide_border=true&layout=compact&border_radius=10" height="180" />
 </div>
 
 ###
