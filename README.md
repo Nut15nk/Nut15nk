@@ -25,4 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
+<div align="left">
+  <a href="https://blackdiamondgroup.club/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-BlackDiamond%20Group-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="BlackDiamond Group Website" />
+  </a>
+</div>
 ###
