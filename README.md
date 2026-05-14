@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nut15nk&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&count_private=true" alt="Nut15nk's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nut15nk&theme=transparent&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="Top Langs" height="180" />
+  <img src="https://metrics.lecoq.io/Nut15nk?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=Asia/Bangkok" alt="Metrics" width="400" />
 </div>
 
 ###
