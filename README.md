@@ -5,7 +5,7 @@
 
 <div align="left">
   <a href="https://blackdiamondgroup.club/" target="_blank">
-    <img src="https://i.imgur.com/gKjGZ8M.png" height="50" alt="blackdiamondgroup logo" />
+    <img src="https://raw.githubusercontent.com/Nut15nk/Nut15nk/main/black_diamon-removebg-preview.png" height="50" alt="blackdiamondgroup logo" />
   </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
