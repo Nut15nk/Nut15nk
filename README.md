@@ -3,9 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nut15nk&theme=vue-dark&show_icons=true&hide_border=true&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nut15nk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Nut15nk&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&count_private=true" alt="Nut15nk's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nut15nk&theme=transparent&show_icons=true&hide_border=true&layout=compact&border_radius=10" alt="Top Langs" height="180" />
 </div>
 
 ###
@@ -26,4 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-##
+###
