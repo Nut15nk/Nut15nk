@@ -22,7 +22,4 @@
 <br/>
 
 <div align="left">
-  <a href="https://blackdiamondgroup.club/" target="_blank">
-    <img src="https://img.shields.io/badge/💎%20BlackDiamond%20Group-Visit%20Website-black?style=for-the-badge" alt="BlackDiamond Group Website" />
-  </a>
 </div>
